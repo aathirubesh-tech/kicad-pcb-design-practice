@@ -1,0 +1,19 @@
+# Day 2 - KiCad PCB Learning
+
+## What I Tried
+- Created a simple LED circuit (LED + Resistor + Power Source)
+- Learned schematic connections
+- Ran ERC (Electrical Rules Check)
+
+## Issues Faced
+- Got multiple ERC errors (~9)
+- Connection issues (wiring not proper)
+- Power input not driven error
+
+## Learning
+- Importance of proper pin-to-pin connection
+- Need for GND and power setup
+- Understanding ERC errors
+
+## Status
+Work in progress (debugging stage)
