@@ -1,0 +1,46 @@
+Overview
+
+Today I consistently explored and learned the fundamentals of Printed Circuit Board (PCB) Design and its role in modern electronics and embedded systems.
+
+PCB is the backbone of electronic devices that connects and supports components through conductive copper traces on a board.
+
+Topics Learned
+Introduction to PCB
+What is PCB
+Importance of PCB in electronics
+Real-world applications of PCB
+PCB Structure
+Substrate Layer
+Copper Layer
+Solder Mask
+Silkscreen Layer
+Types of PCBs
+Single Layer PCB
+Double Layer PCB
+Multi Layer PCB
+Flexible PCB
+Rigid PCB
+HDI PCB
+PCB Design Workflow
+Requirement Analysis
+Schematic Design
+Component Placement
+PCB Routing
+Design Verification
+Manufacturing File Generation
+Tools Explored
+KiCad
+OrCAD
+Allegro PCB Design Platform
+Learning Outcome
+
+Through today’s learning, I understood how PCB design plays a major role in embedded systems, hardware product development, and electronic manufacturing.
+
+Continuously learning and exploring PCB concepts to improve practical hardware design knowledge step by step.
+
+Skills Gained
+PCB Basics
+PCB Design Workflow
+Hardware Design Concepts
+Electronics Fundamentals
+PCB Design Tools Awareness
